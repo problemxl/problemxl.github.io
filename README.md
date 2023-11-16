@@ -11,9 +11,12 @@
 
 #### Olympics SQL Demonstration
 -  demonstrates SQL ability using the Olympic dataset from Kaggle.
+
 [GitHub](https://github.com/problemxl/olympics-sql)
 
 #### Toronto Crime Statistic
 - A visualization for Toronto Crime Statistics
+
 [GitHub](https://github.com/problemxl/toronto-crime-dashboard)
+
 [Dashboard](https://public.tableau.com/app/profile/mark.franciscus/viz/TorontoCrimeStatistics/TorontoCrimeStatistics)
