@@ -25,3 +25,10 @@ Tech Stack : SQL, Postgres
 Tech Stack : Tableau  
 [GitHub](https://github.com/problemxl/toronto-crime-dashboard)  
 [Dashboard](https://public.tableau.com/app/profile/mark.franciscus/viz/TorontoCrimeStatistics/TorontoCrimeStatistics)
+
+#### Kalista
+- A Python API Wrapper that allows for simple access to Riot Games' eSports API.
+
+Tech Stack: Python, asynchronous, pandas  
+[Github](https://github.com/problemxl/kalista/)  
+[Documentation](https://problemxl.github.io/kalista/) 
