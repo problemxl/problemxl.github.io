@@ -31,4 +31,17 @@ Tech Stack : Tableau
 
 Tech Stack: Python, asynchronous, pandas  
 [Github](https://github.com/problemxl/kalista/)  
-[Documentation](https://problemxl.github.io/kalista/) 
+[Documentation](https://problemxl.github.io/kalista/)  
+
+#### S&P 500 Dashboard
+- A visualization for S&P 500 data
+
+Tech Stack: Tableau  
+[GitHub]()
+[Dashboard](https://public.tableau.com/app/profile/mark.franciscus/viz/sp_17008082601810/Dashboard3?publish=yes)
+
+#### Toronto Crime DBT
+- A DBT project that transforms Toronto Crime data into a star schema
+
+Tech Stack: DBT, Postgres, Python, Docker, Jinja
+[GitHub](https://github.com/problemxl/toronto-crime-dbt)
