@@ -38,7 +38,7 @@ Tech Stack: Python, asynchronous, pandas
 
 Tech Stack: Tableau  
 [GitHub]()
-[Dashboard](https://public.tableau.com/app/profile/mark.franciscus/viz/sp_17008082601810/Dashboard3?publish=yes)
+[Dashboard](https://public.tableau.com/app/profile/mark.franciscus/viz/sp_17008082601810/SP500Metrics)
 
 #### Toronto Crime DBT
 - A DBT project that transforms Toronto Crime data into a star schema
