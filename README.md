@@ -1,6 +1,6 @@
 ### Projects
 
-#### Hedgehog
+#### Ontario COVID Scholastic Impact Analysis
 - Determine COVID-19 pandemic academic performance impact at the elementary and high school level in Ontario. Identify geographical areas that may serve as physical placements for resource allocation.  
 
 Tech Stack : Azure Blob Storage, Azure Data Factory, Azure SQL Database, Power BI  
