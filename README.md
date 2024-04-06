@@ -44,3 +44,9 @@ Tech Stack: Tableau
 
 Tech Stack: DBT, Postgres, Python, Docker, Jinja  
 [GitHub](https://github.com/problemxl/toronto-crime-dbt)
+
+#### NHL Dashboard
+- A visualization project that gathers data from the [NHL API](https://gitlab.com/dword4/nhlapi/-/blob/master/stats-api.md), processes it utilizing Azure Synapse, and visualizes trends using Tableau
+
+Tech Stack: Tableau, Azure SQL Server, Azure Synapse, Python  
+[Dashboard](https://public.tableau.com/views/NHLStats_17124244466100/Dashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  
