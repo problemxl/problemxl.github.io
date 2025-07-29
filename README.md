@@ -45,3 +45,10 @@ Tech Stack: Tableau
 Tech Stack: DBT, Postgres, Python, Docker, Jinja  
 [GitHub](https://github.com/problemxl/toronto-crime-dbt)
 
+#### AI-Powered Travel Itinerary Planner
+- A work in progress travel itinerary planner that powered by AI agents.
+
+Tech Stack: Python, Firebase, Serverless Architecture, TinyAgents, AI, LLMs
+[Website](https://travel.francisc.us)
+
+
